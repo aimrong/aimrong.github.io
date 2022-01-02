@@ -1,5 +1,5 @@
 # Site settings
-title: 我爱宝贝荣
+title: 我爱宝贝荣520
 description: '我的女朋友超级无敌漂亮.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:ilovemeirong'
 baseurl: "/" # the subpath of your site, e.g. /blog
